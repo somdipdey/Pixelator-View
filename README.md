@@ -1,7 +1,7 @@
 # Pixelator-View
 Program code (Python) for Pixelator View as explained in the paper, "[SoCodeCNN: Program Source Code for Visual CNN Classification Using Computer Vision Methodology](https://ieeexplore.ieee.org/document/8882216)", published in IEEE Access (2019).
 
-This program (**Pixelator View**) finds the differences between two images in both quantitative and qualitative ways, where the minute differences are not being able to be picked up by classic image difference monitoring approaches such as SSIM map, MSE, Quality of Image, etc.
+This program (**Pixelator View**) finds the differences between two images in both quantitative and qualitative ways, where the minute differences are not being able to be picked up by classic image difference monitoring approaches such as SSIM map, MSE, Quality of Image index, etc.
 
 ## Requirements
 
